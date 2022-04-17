@@ -14,7 +14,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "chat",
 	Short: "聊天客户端",
-	Long:  `使用 chat 命令即可开始聊天吧`,
+	Long:  `使用 chat 命令即刻开始聊天吧`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
